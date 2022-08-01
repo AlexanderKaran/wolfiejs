@@ -1,0 +1,6 @@
+Hi 
+
+This is a basic JavaScript runtime called WolfieJS built on top deno_core to access V8 engine and uses tokio to create an event loop.
+
+It's a simple runtime with not as many features as Deno or Node but it can read, write and remove files.
+
